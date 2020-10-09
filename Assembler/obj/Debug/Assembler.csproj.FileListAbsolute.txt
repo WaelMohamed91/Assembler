@@ -1,0 +1,56 @@
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\bin\Debug\Assembler.exe
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\bin\Debug\Assembler.pdb
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\obj\Debug\Assembler.exe
+c:\users\hp\documents\visual studio 2013\Projects\Assembler\Assembler\obj\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\bin\Debug\Assembler.exe
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\bin\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\obj\Debug\Assembler.exe
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\obj\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\MY COLLEGE\third year (2)\Architecture\project\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+H:\Second Term\Archi\Assembler\Assembler\obj\Debug\Assembler.exe
+H:\Second Term\Archi\Assembler\Assembler\obj\Debug\Assembler.pdb
+H:\Second Term\Archi\Assembler\Assembler\bin\Debug\Assembler.exe
+H:\Second Term\Archi\Assembler\Assembler\bin\Debug\Assembler.pdb
+H:\Second Term\Archi\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+H:\Second Term\Archi\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+H:\Second Term\Archi\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+H:\Second Term\Archi\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+D:\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.exe
+D:\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.pdb
+D:\Assemblerاخر حاجه\Assembler\bin\Debug\Assembler.exe
+D:\Assemblerاخر حاجه\Assembler\bin\Debug\Assembler.pdb
+D:\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.Form1.resources
+D:\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.exe
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\bin\Debug\Assembler.exe
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\bin\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.Form1.resources
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assemblerاخر حاجه\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\obj\Debug\Assembler.exe
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\obj\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\bin\Debug\Assembler.exe
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\bin\Debug\Assembler.pdb
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\obj\Debug\Assembler.Form1.resources
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+E:\Computer Science\1-matrial\Comuter Architecture\Project\Assembler\isa\Assembler_On_Fire\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
